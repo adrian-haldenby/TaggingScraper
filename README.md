@@ -1,7 +1,6 @@
 Analytics Tag Checking Scraper
 ========================================
-Adrian Haldenby
-adouglas@sapient.com
+Adrian Haldenby adouglas@sapient.com
 
 
 OVERVIEW
