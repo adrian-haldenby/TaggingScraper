@@ -48,8 +48,8 @@ DEPENDENCIES
 
 **Python Packages**
 
-*Scrapy http://scrapy.org/
-*Beautiful Soup version <4 http://www.crummy.com/software/BeautifulSoup/
+* Scrapy http://scrapy.org/
+* Beautiful Soup version <4 http://www.crummy.com/software/BeautifulSoup/
 
 Installation (on windows):
 * Make sure python 2.7 is installed on the machine
@@ -64,8 +64,8 @@ Installation (on windows):
 
 **Headless Browser**
 
-PhantomJS http://casperjs.org/
-CasperJS http://phantomjs.org
+* PhantomJS http://casperjs.org/
+* CasperJS http://phantomjs.org
 
 Installation:
 Download them from their respective URLs and add the phantomjs and casperjs\batchbin folders to
