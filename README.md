@@ -1,7 +1,7 @@
 Analytics Tag Checking Scraper
 ========================================
-Adrian Haldenby adouglas@sapient.com
-
+Adrian Haldenby a.haldenby@gmail.com
+**Caution: this is unmaintained since 2012**
 
 OVERVIEW
 --------
@@ -57,7 +57,7 @@ Installation (on windows):
 * Download Easy install version setuptools-0.6c11.win32-py2.7.exe from http://pypi.python.org/pypi/setuptools#downloads and install it
 * goto http://pypi.python.org/pypi/pyOpenSSL/0.13, download the windows pyOpenSSL installer and run it
 * Install lxml (libxml) by going to  http://pypi.python.org/pypi/lxml/ getting libxml2-python-2.7.7.win32-py2.7.exe and running it.
-* To install scrapy open cmd.exe and enter ìeasy_install scrapyî without the quotations
+* To install scrapy open cmd.exe and enter ‚Äúeasy_install scrapy‚Äù without the quotations
 * To install Beautiful Soup enter "easy_install beautifulsoup" without the quotations
 * Done!
 
