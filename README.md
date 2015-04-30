@@ -1,6 +1,7 @@
 Analytics Tag Checking Scraper
 ========================================
 Adrian Haldenby a.haldenby@gmail.com
+
 **Caution: this is unmaintained since 2012**
 
 OVERVIEW
